@@ -1,4 +1,4 @@
-# Kódy k diplomovej práci – Analýza edge-on galaxií
+# Kódy k diplomovej práci – Automatizácia spracovania a analýzy dát v oblasti galaktickej astronómie
 
 Tento repozitár obsahuje všetky Jupyter notebooky použité pri spracovaní dát,
 segmentácii galaxií a výpočte zakrivenia (warp) galaktických diskov v rámci mojej diplomovej práce.
@@ -33,7 +33,7 @@ Repozitár obsahuje aj exportované *.csv* súbory s finálnymi výsledkami warp
 
 --------------------------------------------------------------------------------------------------
 
-# Code for Master's Thesis – Analysis of Edge-on Galaxies
+# Code for Master's Thesis – Automation of processing and analysis of data in galactic astronomy
 
 This repository contains all Jupyter notebooks used for data processing,
 galaxy segmentation, and warp analysis of galactic disks for my master's thesis.
