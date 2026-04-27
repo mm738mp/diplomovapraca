@@ -31,6 +31,12 @@ V tejto časti sa počíta zakrivenie galaktického disku:
 
 Repozitár obsahuje aj exportované *.csv* súbory s finálnymi výsledkami warp analýzy, ktoré sumarizujú parametre zakrivenia pre všetky spracované galaxie.
 
+
+
+
+
+
+
 --------------------------------------------------------------------------------------------------
 
 # Code for Master's Thesis – Automation of processing and analysis of data in galactic astronomy
